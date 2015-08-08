@@ -12,9 +12,10 @@ body {
 	margin-right:8px;
 	float:left;
 	padding:10px;
-	opacity:1.0;
+	opacity:0.9;
 }
 
 .books:hover{
-	opacity:0.8;
+	opacity:1.0;
+	margin-top:15px;
 }
